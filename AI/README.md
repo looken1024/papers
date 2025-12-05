@@ -9,12 +9,12 @@
 | | Learning representations by back-propagating errors | 1986 | 系统阐述了**反向传播算法**（BP算法），是训练深度网络的基石。 |
 | **🚀 深度学习兴起** | ImageNet Classification with Deep Convolutional Neural Networks | 2012 | **AlexNet**在ImageNet大赛夺冠，开启了现代深度学习时代。 |
 | | Visualizing and Understanding Convolutional Networks | 2014 | 提出了**ZFNet**，并通过可视化深入解释了CNN的工作原理。 |
-| | **计算机视觉** | Deep Residual Learning for Image Recognition | 2015 | 提出**ResNet（残差网络）**，通过跳跃连接成功训练了极深的网络。 |
+| **计算机视觉** | Deep Residual Learning for Image Recognition | 2015 | 提出**ResNet（残差网络）**，通过跳跃连接成功训练了极深的网络。 |
 | | You Only Look Once: Unified, Real-Time Object Detection | 2016 | 提出**YOLO** 目标检测算法，实现了精度与速度的平衡。 |
-| | **优化与训练技巧** | Dropout: A Simple Way to Prevent Neural Networks from Overfitting | 2014 | 提出**Dropout**正则化方法，有效防止过拟合。 |
+| **优化与训练技巧** | Dropout: A Simple Way to Prevent Neural Networks from Overfitting | 2014 | 提出**Dropout**正则化方法，有效防止过拟合。 |
 | | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift | 2015 | 提出**批量归一化（Batch Norm）**，大幅加速深度网络训练。 |
 | | Adam: A Method for Stochastic Optimization | 2014 | 提出**Adam优化器**，成为最广泛使用的自适应优化算法之一。 |
-| | **生成模型** | Generative Adversarial Nets | 2014 | 提出**生成对抗网络（GAN）**，开启了生成式模型的新范式。 |
+| **生成模型** | Generative Adversarial Nets | 2014 | 提出**生成对抗网络（GAN）**，开启了生成式模型的新范式。 |
 | | Auto-Encoding Variational Bayes | 2013 | 提出**变分自编码器（VAE）**，是重要的深度生成模型。 |
 | **💬 大语言模型时代** | Attention Is All You Need | 2017 | 提出**Transformer**架构，完全基于注意力机制，成为现代大模型的核心。 |
 | | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | 2018 | 提出**BERT**模型，通过双向预训练在多项NLP任务上取得突破。 |
